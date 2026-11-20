@@ -1,0 +1,9 @@
+data/
+ref/
+work/
+*.bam
+*.bai
+*.fastq.gz
+*.fq.gz
+*.vcf.gz
+*.tbi
