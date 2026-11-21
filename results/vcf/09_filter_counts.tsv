@@ -1,0 +1,10 @@
+metric	count
+records_after_split	3523
+PASS	3294
+filtered_out	229
+-- which filters failed (count per filter name) --
+     23 FS60
+      8 MQ40
+      1 MQRankSum-12.5
+     38 QD2
+    193 SOR3
