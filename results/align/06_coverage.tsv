@@ -1,0 +1,4 @@
+sample	target_bases	mean_depth	pct_ge10x	pct_ge20x	pct_zero
+HG002	1257432	199.3	99.6%	99.1%	0.1%
+HG003	1257432	168.7	99.6%	98.8%	0.1%
+HG004	1257432	186.1	99.6%	99.1%	0.1%
