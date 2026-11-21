@@ -1,0 +1,3 @@
+[2026-11-21 10:51:25,217] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.35 now available!
+[2026-11-21 10:51:25,219] multiqc.core.file_search                           [INFO   ]  Search path: /home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_raw
+[2026-11-21 10:51:25,336] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 6 reports

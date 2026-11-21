@@ -1,0 +1,67 @@
+file	module	status
+HG002_R1.fastq.gz	Basic Statistics	PASS
+HG002_R1.fastq.gz	Per base sequence quality	PASS
+HG002_R1.fastq.gz	Per tile sequence quality	PASS
+HG002_R1.fastq.gz	Per sequence quality scores	PASS
+HG002_R1.fastq.gz	Per base sequence content	PASS
+HG002_R1.fastq.gz	Per sequence GC content	WARN
+HG002_R1.fastq.gz	Per base N content	PASS
+HG002_R1.fastq.gz	Sequence Length Distribution	PASS
+HG002_R1.fastq.gz	Sequence Duplication Levels	PASS
+HG002_R1.fastq.gz	Overrepresented sequences	PASS
+HG002_R1.fastq.gz	Adapter Content	PASS
+HG002_R2.fastq.gz	Basic Statistics	PASS
+HG002_R2.fastq.gz	Per base sequence quality	PASS
+HG002_R2.fastq.gz	Per tile sequence quality	WARN
+HG002_R2.fastq.gz	Per sequence quality scores	PASS
+HG002_R2.fastq.gz	Per base sequence content	PASS
+HG002_R2.fastq.gz	Per sequence GC content	WARN
+HG002_R2.fastq.gz	Per base N content	PASS
+HG002_R2.fastq.gz	Sequence Length Distribution	PASS
+HG002_R2.fastq.gz	Sequence Duplication Levels	PASS
+HG002_R2.fastq.gz	Overrepresented sequences	PASS
+HG002_R2.fastq.gz	Adapter Content	PASS
+HG003_R1.fastq.gz	Basic Statistics	PASS
+HG003_R1.fastq.gz	Per base sequence quality	PASS
+HG003_R1.fastq.gz	Per tile sequence quality	WARN
+HG003_R1.fastq.gz	Per sequence quality scores	PASS
+HG003_R1.fastq.gz	Per base sequence content	PASS
+HG003_R1.fastq.gz	Per sequence GC content	WARN
+HG003_R1.fastq.gz	Per base N content	PASS
+HG003_R1.fastq.gz	Sequence Length Distribution	PASS
+HG003_R1.fastq.gz	Sequence Duplication Levels	PASS
+HG003_R1.fastq.gz	Overrepresented sequences	PASS
+HG003_R1.fastq.gz	Adapter Content	PASS
+HG003_R2.fastq.gz	Basic Statistics	PASS
+HG003_R2.fastq.gz	Per base sequence quality	PASS
+HG003_R2.fastq.gz	Per tile sequence quality	WARN
+HG003_R2.fastq.gz	Per sequence quality scores	PASS
+HG003_R2.fastq.gz	Per base sequence content	PASS
+HG003_R2.fastq.gz	Per sequence GC content	FAIL
+HG003_R2.fastq.gz	Per base N content	PASS
+HG003_R2.fastq.gz	Sequence Length Distribution	PASS
+HG003_R2.fastq.gz	Sequence Duplication Levels	PASS
+HG003_R2.fastq.gz	Overrepresented sequences	PASS
+HG003_R2.fastq.gz	Adapter Content	PASS
+HG004_R1.fastq.gz	Basic Statistics	PASS
+HG004_R1.fastq.gz	Per base sequence quality	PASS
+HG004_R1.fastq.gz	Per tile sequence quality	WARN
+HG004_R1.fastq.gz	Per sequence quality scores	PASS
+HG004_R1.fastq.gz	Per base sequence content	PASS
+HG004_R1.fastq.gz	Per sequence GC content	WARN
+HG004_R1.fastq.gz	Per base N content	PASS
+HG004_R1.fastq.gz	Sequence Length Distribution	PASS
+HG004_R1.fastq.gz	Sequence Duplication Levels	PASS
+HG004_R1.fastq.gz	Overrepresented sequences	PASS
+HG004_R1.fastq.gz	Adapter Content	PASS
+HG004_R2.fastq.gz	Basic Statistics	PASS
+HG004_R2.fastq.gz	Per base sequence quality	PASS
+HG004_R2.fastq.gz	Per tile sequence quality	WARN
+HG004_R2.fastq.gz	Per sequence quality scores	PASS
+HG004_R2.fastq.gz	Per base sequence content	PASS
+HG004_R2.fastq.gz	Per sequence GC content	FAIL
+HG004_R2.fastq.gz	Per base N content	PASS
+HG004_R2.fastq.gz	Sequence Length Distribution	PASS
+HG004_R2.fastq.gz	Sequence Duplication Levels	PASS
+HG004_R2.fastq.gz	Overrepresented sequences	PASS
+HG004_R2.fastq.gz	Adapter Content	PASS

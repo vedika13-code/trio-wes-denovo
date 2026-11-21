@@ -1,0 +1,4 @@
+Sample	input_read_pairs	surviving	surviving_pct	forward_only_surviving	forward_only_surviving_pct	reverse_only_surviving	reverse_only_surviving_pct	dropped	dropped_pct
+HG002	1811051.0	1643480.0	90.75	101241.0	5.59	25513.0	1.41	40817.0	2.25
+HG003	1534607.0	1400781.0	91.28	72903.0	4.75	27321.0	1.78	33602.0	2.19
+HG004	1736689.0	1575384.0	90.71	96263.0	5.54	25515.0	1.47	39527.0	2.28

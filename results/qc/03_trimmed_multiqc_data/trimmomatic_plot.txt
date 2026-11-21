@@ -1,0 +1,4 @@
+Sample	Surviving Reads	Forward Only Surviving	Reverse Only Surviving	Dropped
+HG002	1643480.0	101241.0	25513.0	40817.0
+HG003	1400781.0	72903.0	27321.0	33602.0
+HG004	1575384.0	96263.0	25515.0	39527.0

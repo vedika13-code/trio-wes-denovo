@@ -10,3 +10,4 @@ dependencies:
   - fastqc=0.12.1
   - trimmomatic=0.39
   - gatk4=4.6.1.0
+  - multiqc=1.25

@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+Trimmomatic	all_sections	HG002	/home/vedikagoyal/trio-wes-denovo/work/trimmed/HG002.trimmomatic.log
+Trimmomatic	all_sections	HG003	/home/vedikagoyal/trio-wes-denovo/work/trimmed/HG003.trimmomatic.log
+Trimmomatic	all_sections	HG004	/home/vedikagoyal/trio-wes-denovo/work/trimmed/HG004.trimmomatic.log
+FastQC	all_sections	HG002_R1.paired	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_trimmed/HG002_R1.paired_fastqc.zip
+FastQC	all_sections	HG003_R1.paired	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_trimmed/HG003_R1.paired_fastqc.zip
+FastQC	all_sections	HG002_R2.paired	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_trimmed/HG002_R2.paired_fastqc.zip
+FastQC	all_sections	HG003_R2.paired	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_trimmed/HG003_R2.paired_fastqc.zip
+FastQC	all_sections	HG004_R1.paired	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_trimmed/HG004_R1.paired_fastqc.zip
+FastQC	all_sections	HG004_R2.paired	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_trimmed/HG004_R2.paired_fastqc.zip

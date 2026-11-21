@@ -1,0 +1,5 @@
+[2026-11-21 11:24:50,100] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.35 now available!
+[2026-11-21 11:24:50,102] multiqc.core.file_search                           [INFO   ]  Search path: /home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_trimmed
+[2026-11-21 11:24:50,102] multiqc.core.file_search                           [INFO   ]  Search path: /home/vedikagoyal/trio-wes-denovo/work/trimmed
+[2026-11-21 11:24:50,214] multiqc.modules.trimmomatic.trimmomatic            [INFO   ]  Found 3 logs
+[2026-11-21 11:24:50,249] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 6 reports

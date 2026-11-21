@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	HG003_R1	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_raw/HG003_R1_fastqc.zip
+FastQC	all_sections	HG002_R1	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_raw/HG002_R1_fastqc.zip
+FastQC	all_sections	HG003_R2	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_raw/HG003_R2_fastqc.zip
+FastQC	all_sections	HG002_R2	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_raw/HG002_R2_fastqc.zip
+FastQC	all_sections	HG004_R1	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_raw/HG004_R1_fastqc.zip
+FastQC	all_sections	HG004_R2	/home/vedikagoyal/trio-wes-denovo/work/qc/fastqc_raw/HG004_R2_fastqc.zip
