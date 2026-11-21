@@ -1,0 +1,8 @@
+step	description	remaining
+0	all variant records	3523
+1	child het, both parents hom-ref (v1 stopped here)	24
+2	passed hard filters	15
+3	depth >=10 in all three	9
+4	genotype quality >=20 in all three	6
+5	child allele balance 0.25-0.75	3
+6	zero alt reads in both parents	3

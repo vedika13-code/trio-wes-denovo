@@ -1,0 +1,4 @@
+chrom	pos	ref	alt	child_GT	child_AD	child_GQ	father_GT	father_AD	father_GQ	mother_GT	mother_AD	mother_GQ
+20	252084	TAC	T	0/1	8,4	86	0/0	21,0	33	0/0	21,0	22
+20	20445841	A	ACT	0|1	35,26	99	0|0	31,0	99	0/0	39,0	99
+20	62648292	CT	C	0/1	9,5	72	0/0	14,0	30	0/0	24,0	24
