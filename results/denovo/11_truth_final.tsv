@@ -1,0 +1,4 @@
+chrom	pos	ref	alt	child_in_bed	father_in_bed	mother_in_bed	child_has	father_has	mother_has	verdict
+20	252084	TAC	T	1	1	1	0	0	0	false_call_in_child
+20	20445841	A	ACT	0	0	0	0	0	0	outside_GIAB_confident_regions
+20	62648292	CT	C	1	1	1	0	0	0	false_call_in_child

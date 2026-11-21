@@ -12,7 +12,7 @@ count() { bcftools view -H $1 | wc -l; }
 
 echo -e "0\tall variant records\t$(count $IN)" >> $F
 
-bcftools view -i 'GT[0]="het" && GT[1]="RR" && GT[2]="RR"' $IN -Oz -o $D/s1.vcf.gz
+bcftools view -i 'GT[0]="het" && GT[1]="RR" && GT[2]="RR" && ALT!="*"' $IN -Oz -o $D/s1.vcf.gz
 echo -e "1\tchild het, both parents hom-ref (v1 stopped here)\t$(count $D/s1.vcf.gz)" >> $F
 
 bcftools view -f PASS $D/s1.vcf.gz -Oz -o $D/s2.vcf.gz
